@@ -1,0 +1,10 @@
+<!-- TITLE: Blacklists -->
+<!-- SUBTITLE: You shall not pass! -->
+
+![Gandalf](/uploads/gandalf.jpg "Gandalf")
+
+Blacklists are made up of independent volunteers, Internet Service and Software providers, and everything in between. These third parties serve as educators for senders and early warning systems for recipients and ISPs. Many third-party reputation sites are blacklists who deploy their own spam traps and list IPs and domains that send to them, still others are tools and plugins used by corporations or individual users and put the data they gather to use creating aggregate reputations for the domains or IPs they have encountered.
+
+Blacklists are typically nonprofit organizations, although many companies keep their own as well. A blacklist is simply a database of IP addresses and/or domains that the organization has decided meet some criteria that merits blocking the network or identity. These blacklists are then accessed by spam filters in order to contribute to the decision to accept, quarantine, or reject an email. Naturally, there are many different lists based on different criteria that may or may not be relevant to any given network. This means that some blacklists are more important to a marketing program than others.  Blacklists like SpamHaus and SORBS have well-maintained spam trap networks and also provide processes for a sender to show that they are using good practices, making them very effective at separating senders with unexpected list issues from abusive marketers and spammers.  These lists, and their counterparts, are considered trustworthy across the industry and therefore being listed on such a blacklist as these can have a significant and immediate effect on deliverability and therefore on conversions. Monitoring these and other significant blacklists is very important. 
+
+# Blacklists
