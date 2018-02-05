@@ -1,7 +1,7 @@
 <!-- TITLE: Blacklists -->
 <!-- SUBTITLE: You shall not pass! -->
-
-![Gandalf](/uploads/gandalf.jpg "Gandalf")
+![Ibp](/uploads/ibp.png "Ibp"){.pagelogo}
+![Gandalf](/uploads/gandalf.jpg "Gandalf"){.align-center}
 
 Blacklists are made up of independent volunteers, Internet Service and Software providers, and everything in between. These third parties serve as educators for senders and early warning systems for recipients and ISPs. Many third-party reputation sites are blacklists who deploy their own spam traps and list IPs and domains that send to them, still others are tools and plugins used by corporations or individual users and put the data they gather to use creating aggregate reputations for the domains or IPs they have encountered.
 
