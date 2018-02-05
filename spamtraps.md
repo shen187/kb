@@ -1,8 +1,8 @@
 <!-- TITLE: Spam Traps -->
 <!-- SUBTITLE: IT'S A TRAP! -->
 
-
-![Ackbar](/uploads/ackbar.jpeg "Ackbar")
+![Ibp](/uploads/ibp.png "Ibp"){.pagelogo}
+![Ackbar](/uploads/ackbar.jpeg "Ackbar"){.align-center}
 
 
 Spam traps are email addresses that should not be on any marketer’s list. They are implemented and monitored by ISPs, Blacklists, and other third-party actors like Cloudmark in an effort to identify spammers and senders who engage in abusive practices like scraping and generating lists. The blacklists and ISPs guard access to their spam trap networks closely and regularly create new ones in an effort to foil the detection that would allow a sender to remove spam traps from their list.
