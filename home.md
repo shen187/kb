@@ -3,5 +3,4 @@
 
 ![Ibp](/uploads/ibp.png "Ibp"){.align-center}
 
-![Ibplogo](/uploads/ibplogo.png "Ibplogo"){.pagelogo}
-
+![Ibplogo Copy](/uploads/ibplogo copy.png "Ibplogo Copy")
