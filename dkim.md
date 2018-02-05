@@ -1,6 +1,7 @@
+![Ibp Logo](/uploads/ibp_logo.png "Ibp Logo"){.pagelogo}
+
 <!-- TITLE: DKIM -->
 <!-- SUBTITLE: Domain Keys Identified Mail -->
-![Ibp Logo](/uploads/ibp_logo.png "Ibp Logo"){.pagelogo}
 
 
 DKIM, or Domain Keys Identified Mail, is a method of informing the recipient server that the signing server owns the DNS zone of the domain in the signature, and that the portions of the message that have been signed are unchanged between transmission and reception.
