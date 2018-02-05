@@ -1,5 +1,5 @@
 <!-- TITLE: Spam Traps -->
-<!-- SUBTITLE: "IT'S A TRAP!" -->
+<!-- SUBTITLE: IT'S A TRAP! -->
 
 ![Ackbar](/uploads/ackbar.jpeg "Ackbar")
 
