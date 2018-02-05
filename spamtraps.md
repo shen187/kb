@@ -3,6 +3,8 @@
 
 ![Ackbar](/uploads/ackbar.jpeg "Ackbar")
 
+## Spam Traps
+
 Spam traps are email addresses that should not be on any marketer’s list. They are implemented and monitored by ISPs, Blacklists, and other third-party actors like Cloudmark in an effort to identify spammers and senders who engage in abusive practices like scraping and generating lists. The blacklists and ISPs guard access to their spam trap networks closely and regularly create new ones in an effort to foil the detection that would allow a sender to remove spam traps from their list.
 Spam traps can be grouped into three categories:
 
@@ -21,4 +23,3 @@ If a recycled address receives an email, ISPs know that the list is either purch
 ### Pristine  
 Pristine spam traps are real email addresses that have never opted into any email communications. The email address may have been placed on a blog, forum, or chat room, but has never signed up for any form of email communication. Additionally, ISPs will monitor purchased lists through subtle tactics or simply through purchasing the lists themselves. If these lists contain nonexistent email addresses, such as generated addresses, ISPs will often create those email accounts as Pristine spam traps in order to identify any sender who has purchased that list.
 
-# Spam Traps
