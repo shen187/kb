@@ -14,7 +14,7 @@ While it is expected that a sender will hit some typo traps due to user error wh
 
 Another possible source of Typo traps is bot attacks on form fields. If an ISP sees a sudden flood of Typo traps they may assume that the sender has suffered a bot attack and consider that if the sender is using insecure practices on their forms, they may also use other insecure practices that put the ISP’s customers at risk.
 
-### 1. Grey (Recycled) 
+### Grey (Recycled) 
 These are addresses that, although they were once active - have been out of use for a certain period of time. ISPs take inactive addresses that should have bounced over that period of time, and reactivate the accounts.  
 
 If a recycled address receives an email, ISPs know that the list is either purchased, received from an affiliate, or is not being segmented by engagement.  Engagement with their users is the primary metric for a sender’s reputation with any ISP, and ISPs take these traps very seriously.
